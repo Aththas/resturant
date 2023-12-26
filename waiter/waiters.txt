@@ -1,0 +1,11 @@
+username: Perera
+pwd: 123
+(for table No 1,2,3)
+
+username: Kusal
+pwd: 123
+(for table No 4,5,6)
+
+username: Mendis
+pwd: 123
+(for table No 7,8,9)
