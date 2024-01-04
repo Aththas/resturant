@@ -2,7 +2,7 @@
 Savor the essence of culinary delight on our Restaurant Website. Immerse yourself in a digital dining experience where exquisite menus, cozy ambiance, and online reservations converge. Explore our culinary offerings, reserve your table effortlessly, and indulge in a symphony of flavors with a click
 
 ## Installation
-Restaurant Website locally, follow these steps:
+To run Restaurant Website locally, follow these steps:
 
 1. Install Xampp server (or wamp server)
 2. Clone the repository into C:\xampp\htdocs folder: git clone https://github.com/Aththas/resturant.git 
