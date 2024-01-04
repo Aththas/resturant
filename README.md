@@ -32,7 +32,7 @@ Once you have Restaurant Website up and running, you can perform the following a
 5. Add and manage product category and products.
 
 ## Technologies Used
-Saloon Management System Admin Panel is built using the following technologies and frameworks:
+Saloon Management System Admin Panel is built using the following technologies:
 
 1. Frontend: Html, css, js
 2. Backend: PHP
